@@ -1,4 +1,4 @@
-## 欢迎来到王铁鹏的个人主页 联系方式 wangtiepeng@21cn.com
+## 欢迎来到王铁鹏的个人主页 wangtiepeng@21cn.com
 ### Markdown
 
 ```markdown
