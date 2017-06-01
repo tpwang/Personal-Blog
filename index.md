@@ -1,7 +1,6 @@
 ## 欢迎来到王铁鹏的个人主页
 ### Markdown
 
-[![alt text](http://path/to/img.jpg "title")]
 ```markdown
 Syntax highlighted code block
 
