@@ -6,27 +6,27 @@
 <tr>Lession One </tr>
 <td> 这是我的第一篇文章，不知道写些什么，祝大家能够开心工作，每天都有新的收获。</td>
 
-<body>
-<p id="demo">点击这个按钮，获得您的坐标：</p>
-<button onclick="getLocation()">试一下</button>
-<script>
-var x=document.getElementById("demo");
-function getLocation()
-  {
-  if (navigator.geolocation)
-    {
-    navigator.geolocation.getCurrentPosition(showPosition);
-    }
-  else{x.innerHTML="Geolocation is not supported by this browser.";}
-  }
-function showPosition(position)
-  {
-  x.innerHTML="Latitude: " + position.coords.latitude + 
-  "<br />Longitude: " + position.coords.longitude;	
-  }
-</script>
-</body>
+<style type="text/css">
+#div1 {width:198px; height:66px;padding:10px;border:1px solid #aaaaaa;}
+</style>
+<script type="text/javascript">
+function allowDrop(ev)
+{
+ev.preventDefault();
+}
 
+function drag(ev)
+{
+ev.dataTransfer.setData("Text",ev.target.id);
+}
+
+function drop(ev)
+{
+ev.preventDefault();
+var data=ev.dataTransfer.getData("Text");
+ev.target.appendChild(document.getElementById(data));
+}
+</script>
 
 
 
