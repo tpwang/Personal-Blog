@@ -1,8 +1,7 @@
 ## 欢迎来到王铁鹏的个人主页
-<a href="http://write.blog.csdn.net/postlist" target="_blank">麦田里的码农</a>
 ### Markdown
 
-
+[![alt text](http://path/to/img.jpg "title")]
 ```markdown
 Syntax highlighted code block
 
