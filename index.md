@@ -1,9 +1,7 @@
 ## 欢迎来到王铁鹏的个人主页
-
-
+<a href="http://write.blog.csdn.net/postlist" target="_blank">麦田里的码农</a>
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -19,9 +17,6 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![http://e.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=fc1aa3f7bc3eb13544c7b0bd9e25cfee/58ee3d6d55fbb2fb3f06d70d4f4a20a44623dc84.jpg(src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
