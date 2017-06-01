@@ -20,7 +20,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![http://e.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=fc1aa3f7bc3eb13544c7b0bd9e25cfee/58ee3d6d55fbb2fb3f06d70d4f4a20a44623dc84.jpg(src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
