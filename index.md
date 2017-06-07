@@ -26,3 +26,13 @@
 
 5、具有较好的沟通表达能力，学习能力强，较好的逻辑分析能力。
 
+<style>.gc-comments {font:12px/1.5 Lantinghei SC,Microsoft Yahei,Hiragino Sans GB,Microsoft Sans Serif,WenQuanYi Micro Hei,sans-serif}</style>
+<script src="https://unpkg.com/github-comments/gc.js"></script>
+<div class="gc-comments" data-repos="nimojs/github-comments" data-issues="1" >
+    <div class="gc-comments-title">
+        评论
+    </div>
+    <div class="gc-comments-info">
+        想在此留下评论，请访问 <a target="_blank" href="issues_link">issues_link</a> 提交评论
+    </div>
+</div>
